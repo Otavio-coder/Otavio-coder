@@ -21,6 +21,3 @@
   <a href="https://www.linkedin.com/in/otavio-nunes-6762041b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYo%2Bpr1FyR3OP%2BBrXaJzxdQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![Snake animation](https://github.com/otavio-code/otavio-code/blob/output/github-contribution-grid-snake.svg)
-
