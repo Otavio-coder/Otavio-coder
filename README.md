@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Doctor Who
-<p align="left">My name is Otávio and I'm a <strong>Full Stack Developer</strong> (with focus on Back End) and <strong>Full Stack </strong> from Brazil!</p>
+<p align="left">My name is Otávio and I'm a <strong>Full Stack Developer</strong> (with focus on Back End) from Brazil!</p>
 <p align="left">I'm a open minded and creative person, I'm always searching new and better possibilities.</p>
 
 ### Some facts about me:
