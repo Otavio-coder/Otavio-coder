@@ -1,6 +1,4 @@
-# Hi there 👋, I'm Doctor Who
-<p align="left">My name is Otávio and I'm a <strong>Full Stack Developer</strong> (with focus on Back End) from Brazil!</p>
-<p align="left">I'm a open minded and creative person, I'm always searching new and better possibilities.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=2D9CCD&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Paulo+Dalsoto.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ### Some facts about me:
 <p align="left">
