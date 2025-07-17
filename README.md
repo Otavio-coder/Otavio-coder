@@ -12,7 +12,6 @@
 
 ## Fun Facts
 - **🌍 Languages**: Fluent in Portuguese and pretty confident in English. I love connecting with people from different backgrounds!
-- **🏆 Achievements**: Developed a web interface that clinched 2nd place at a major tech fair. Always thrilled to see my work make an impact!
 - **💪 Problem Solver**: I thrive on tackling complex problems and am always up for a new challenge.
 
 Feel free to explore my projects and get in touch if you want to chat about data, tech, or anything else that sparks your interest!
