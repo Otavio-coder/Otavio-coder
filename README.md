@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=2D9CCD&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Paulo+Dalsoto.;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=2D9CCD&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Otávio+Nunes.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ### Some facts about me:
 <p align="left">
